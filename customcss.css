@@ -1,0 +1,15 @@
+.workExample{
+    display:block;
+    margin:auto;
+}
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(77, 182, 172, 0), rgba(77, 182, 172, 0.75), rgba(77, 182, 172, 0));
+}
+textarea{
+	line-height: 1.2em
+}
+label{
+	padding:6px;
+}
